@@ -1,5 +1,5 @@
 
-# Q3: URL shortener service
+URL shortener service
 
 ## What you should know
 
